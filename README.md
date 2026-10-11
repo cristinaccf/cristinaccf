@@ -16,5 +16,3 @@ Passionate about Cybersecurity, with a strong interest in Red Team operations an
 ## 📂 What you'll find here
 
 This GitHub documents my learning journey through cybersecurity, university projects, labs, scripts, and personal research.
-
-Always learning.
