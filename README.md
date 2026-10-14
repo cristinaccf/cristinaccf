@@ -1,6 +1,6 @@
-# Hi, I'm Cristina 👋
+# Hi, I'm Cristina 
 
-🎓 Computer Science student at UNED
+Computer Science student at UNED
 
 Passionate about Cybersecurity, with a strong interest in Red Team operations and Penetration Testing.
 
